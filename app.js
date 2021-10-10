@@ -1,3 +1,3 @@
-function suma(b,d) {
-    return b + d;
+function suma(a,c) {
+    return a + c;
 }
